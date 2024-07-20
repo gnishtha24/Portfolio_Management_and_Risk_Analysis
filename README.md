@@ -1,7 +1,7 @@
 # Portfolio Management and Risk Analysis
 
-## Semester Project - Finance and Analytics Club
-This repository contains the semester project completed as part of the Finance and Analytics Club's end-term evaluation. The project focuses on portfolio management and risk analysis using Python.
+## Summer Project - Finance and Analytics Club
+This repository contains the summer project completed as part of the Finance and Analytics Club's end-term evaluation. The project focuses on portfolio management and risk analysis using Python.
 
 ## Project Overview:
 The project aims to implement various financial analysis techniques using Python and key libraries such as NumPy and Pandas. It covers fundamental concepts in finance, risk management, and portfolio optimization. Here's a brief overview of what each phase of the project entails:
